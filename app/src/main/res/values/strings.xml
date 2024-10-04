@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Anime_List_App</string>
+    <string name="title_activity_anime_list">AnimeList</string>
+    <string name="user_name">Zaebi Agustia Hidayatullah</string>
+    <string name="user_email">zaebiyt@gmail.com</string>
+    <string name="anime_name_test">An Anime Name</string>
+    <string name="description_test">Somekind of long description!\nI think</string>
+    <string name="AppTitle">Vizago Anime List</string>
+    <string name="profile_icon">Profile Icon</string>
+    <string name="about">About</string>
+    <string name="share">Share</string>
+
+    <string-array name="anime_images">
+        <item>https://cdn.myanimelist.net/images/anime/1889/105337.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1015/138006.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/6/82651.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1522/117645.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/12/67333.jpg</item>
+        <item>https://m.media-amazon.com/images/I/71s-P7xv0vL._AC_UF1000,1000_QL80_.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1142/112957.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1194/103420.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1274/102213.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1887/117644.jpg</item>
+    </string-array>
+
+    <string-array name="anime_names">
+        <item>ID Invaded</item>
+        <item>Sousou no Frieren</item>
+        <item>Fate/Grand Order: First Order</item>
+        <item>Fate/Zero 2nd Season</item>
+        <item>Fate/stay night: Unlimited Blade Works</item>
+        <item>Attack on Titan</item>
+        <item>Fate/stay night Movie: Heaven\'s Feel - III. Spring Song</item>
+        <item>Fate/Grand Order: Zettai Majuu Sensen Babylonia</item>
+        <item>Fate/stay night Movie: Heaven\'s Feel - I. Presage Flower</item>
+        <item>Fate/Zero</item>
+    </string-array>
+
+    <string-array name="anime_genres">
+        <item>Mystery, Sci-Fi, Suspense</item>
+        <item>Adventure, Drama, Fantasy</item>
+        <item>Action, Fantasy, Supernatural</item>
+        <item>Action, Fantasy, Supernatural</item>
+        <item>Action, Fantasy, Supernatural</item>
+        <item>Action, Drama, Fantasy, Mystery</item>
+        <item>Action, Fantasy, Supernatural</item>
+        <item>Action, Fantasy, Supernatural</item>
+        <item>Action, Fantasy, Supernatural</item>
+        <item>Action, Fantasy, Supernatural</item>
+    </string-array>
+
+    <string-array name="anime_description">
+        <item>The Mizuhanome System lets detectives enter the human mind using "cognition particles" left at crime scenes, manifesting a criminal\'s subconscious as a strange virtual world called an "id well." Only those who have killed someone can enter these wells—like former detective Akihito Narihisago, known as "Sakaido" inside them. Though imprisoned for his own crimes, Narihisago aids Kura, a specialized police squad, with his exceptional detective skills. But as he delves into these bizarre psychological landscapes, he realizes the interconnected murder cases hide a far darker truth.</item>
+        <item>After a decade of adventures defeating the Demon King, the hero Himmel, priest Heiter, dwarf warrior Eisen, and elven mage Frieren form lasting bonds. Yet, for Frieren—whose lifespan stretches over a thousand years—their time together is fleeting. After the party disbands, she resumes her solitary life of spell-collecting, seemingly unmoved. As years pass and two companions die, Frieren regrets taking them for granted. Determined to better understand humans, she sets out to build deeper connections. Though their journey has ended, a new story is about to unfold.</item>
+        <item>In 2015, the Chaldea Security Organization predicts humanity\'s future is secure—until it suddenly shifts, foretelling extinction by the end of 2016. The cause is unknown but linked to Fuyuki, Japan, and the 2004 events of the Fifth Holy Grail War.To prevent this disaster, Chaldea employs Rayshift technology, an experimental form of time travel. Newly recruited Ritsuka Fujimaru and the enigmatic Mash Kyrielight are sent back to 2004 to uncover the truth and save humanity. A grand order has been issued: change the past to restore the future.</item>
+        <item>As the Fourth Holy Grail War drags on, Church supervisor Risei Kotomine urges the remaining Masters and Servants to unite against a looming threat that could destroy Fuyuki City. However, the fragile alliance quickly crumbles as Masters resort to ruthless tactics to secure victory. Tensions rise between Kiritsugu Emiya and his Servant, Saber, due to their clashing views on heroism and chivalry. Meanwhile, Kirei Kotomine, still searching for his purpose, forms a dangerous alliance with another Servant. As the war nears its end, the true cost of victory blurs the line between triumph and defeat.</item>
+        <item>The Holy Grail War is a battle royale where seven magi, known as Masters, summon Heroic Spirits called Servants to fight for them. In the Fifth War, Rin Toosaka enters with her Servant, Archer, seeking the Holy Grail—a wish-granting artifact. Rin’s classmate, Shirou Emiya, accidentally becomes a Master and summons his own Servant, Saber. Facing common foes, Rin and Shirou form a temporary alliance to challenge their opponents and survive the deadly competition.</item>
+        <item>In a world besieged by giant humanoid creatures known as Titans, humanity fights for survival behind massive walls. The story follows Eren Yeager and his friends as they uncover the mysteries of their world.</item>
+        <item>The Fifth Holy Grail War in Fuyuki City has reached a turning point in which the lives of all participants are threatened as the hidden enemy finally reveals itself. As Shirou Emiya, Rin Toosaka, and Illyasviel von Einzbern discover the true, corruptive nature of the shadow that has been rampaging throughout the city, they realize just how dire the situation is. In order to protect their beloved ones, the group must hold their own against the seemingly insurmountable enemy force—even if some of those foes were once their allies, or perhaps, something more intimate. As the final act of this chaotic war commences, the ideals Shirou believes will soon be challenged by an excruciating dilemma: is it really possible to save a world where everything seems to have gone wrong?</item>
+        <item>Set in A.D. 2016, this story follows Chaldea, a secret organization dedicated to preserving humanity\'s future after a cataclysmic event caused by the Mage King Solomon. Ritsuka Fujimaru and his demi-servant, Mash Kyrielight, utilize time travel technology to journey to B.C. 2655 in Mesopotamia. Here, they confront Demonic Beasts terrorizing the land and join forces with the legendary King Gilgamesh, who leads the defense of Uruk. Together, they battle the Three Goddess Alliance, aiming to protect humanity from annihilation while a greater threat looms over them.</item>
+        <item>The Holy Grail War: a violent battle between mages in which seven masters and their summoned servants fight for the Holy Grail, a magical artifact that can grant the victor any wish. Nearly 10 years ago, the final battle of the Fourth Holy Grail War wreaked havoc on Fuyuki City and took over 500 lives, leaving the city devastated. Shirou Emiya, a survivor of this tragedy, aspires to become a hero of justice like his rescuer and adoptive father, Kiritsugu Emiya. Despite only being a student, Shirou is thrown into the Fifth Holy Grail War when he accidentally sees a battle between servants at school and summons his own servant, Saber. When a mysterious shadow begins a murderous spree in Fuyuki City, Shirou aligns himself with Rin Toosaka, a fellow participant in the Holy Grail War, in order to stop the deaths of countless people. However, Shirou\'s feelings for his close friend Sakura Matou lead him deeper into the dark secrets surrounding the war and the feuding families involved.</item>
+        <item>With the promise of granting any wish, the omnipotent Holy Grail triggered three wars in the past, each too cruel and fierce to leave a victor. In spite of that, the wealthy Einzbern family is confident that the Fourth Holy Grail War will be different; namely, with a vessel of the Holy Grail now in their grasp. Solely for this reason, the much hated "Magus Killer" Kiritsugu Emiya is hired by the Einzberns, with marriage to their only daughter Irisviel as binding contract. Kiritsugu now stands at the center of a cutthroat game of survival, facing off against six other participants, each armed with an ancient familiar, and fueled by unique desires and ideals. Accompanied by his own familiar, Saber, the notorious mercenary soon finds his greatest opponent in Kirei Kotomine, a priest who seeks salvation from the emptiness within himself in pursuit of Kiritsugu. Based on the light novel written by Gen Urobuchi, Fate/Zero depicts the events of the Fourth Holy Grail War—10 years prior to Fate/stay night. Witness a battle royale in which no one is guaranteed to survive.</item>
+    </string-array>
+
+    <string-array name="anime_rating">
+        <item>4.0</item>
+        <item>4.9</item>
+        <item>3.5</item>
+        <item>4.7</item>
+        <item>4.2</item>
+        <item>4.9</item>
+        <item>4.6</item>
+        <item>4.0</item>
+        <item>4.2</item>
+        <item>4.3</item>
+    </string-array>
+</resources>

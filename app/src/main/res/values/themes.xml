@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.Anime_List_Base.BuiltInActionBar" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Color Pallets -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorError">@color/colorError</item>
+
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textColorSecondary">@color/colorSecondaryText</item>
+        <item name="android:textColorHint">@color/colorHint</item>
+
+        <item name="colorOnPrimary">@color/colorBackground</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="Theme.Anime_List_Base" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Color Pallets -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="colorSurface">@color/colorSurface</item>
+        <item name="colorError">@color/colorError</item>
+
+        <item name="android:textColor">@color/colorText</item>
+        <item name="android:textColorSecondary">@color/colorSecondaryText</item>
+        <item name="android:textColorHint">@color/colorHint</item>
+
+        <item name="colorOnPrimary">@color/colorBackground</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="Theme.Anime_List_Base.RatingStars" parent="android:style/Widget.Material.RatingBar.Small">
+        <item name="android:numStars">5</item>
+        <item name="android:stepSize">0.2</item>
+        <item name="android:progressTint">@color/gold</item>
+    </style>
+
+    <!-- Title Text Style -->
+    <style name="Theme.Anime_List_Base.TextStyle.Title">
+        <item name="android:textSize">24sp</item> <!-- Font size for title -->
+        <item name="android:textColor">@color/colorPrimary</item> <!-- Title text color -->
+        <item name="android:fontFamily">@font/roboto_bold</item> <!-- Set a custom font if needed -->
+        <item name="android:textStyle">bold</item> <!-- Style for title text -->
+    </style>
+
+    <!-- Subtitle Text Style -->
+    <style name="Theme.Anime_List_Base.TextStyle.Subtitle">
+        <item name="android:textSize">18sp</item> <!-- Font size for subtitle -->
+        <item name="android:textColor">@color/colorText</item> <!-- Subtitle text color -->
+        <item name="android:fontFamily">@font/roboto_medium</item> <!-- Set a custom font if needed -->
+        <item name="android:textStyle">normal</item> <!-- Normal style for subtitle text -->
+    </style>
+
+    <!-- Content Text Style -->
+    <style name="Theme.Anime_List_Base.TextStyle.Content">
+        <item name="android:textSize">16sp</item> <!-- Font size for content text -->
+        <item name="android:textColor">@color/colorSecondaryText</item> <!-- Content text color -->
+        <item name="android:fontFamily">@font/roboto_regular</item> <!-- Set a custom font if needed -->
+        <item name="android:textStyle">normal</item> <!-- Normal style for content text -->
+    </style>
+
+    <!-- Content Secondary Text Style -->
+    <style name="Theme.Anime_List_Base.TextStyle.ContentSecondary">
+        <item name="android:textSize">14sp</item> <!-- Font size for content text -->
+        <item name="android:textColor">@color/colorSecondaryText</item> <!-- Content text color -->
+        <item name="android:fontFamily">@font/roboto_regular</item> <!-- Set a custom font if needed -->
+        <item name="android:textStyle">normal</item> <!-- Normal style for content text -->
+    </style>
+
+    <!-- Caption Text Style -->
+    <style name="Theme.Anime_List_Base.TextStyle.Caption">
+        <item name="android:textSize">14sp</item> <!-- Smaller font size for captions -->
+        <item name="android:textColor">@color/colorHint</item> <!-- Light hint color for captions -->
+        <item name="android:fontFamily">@font/roboto_light_italic</item> <!-- Set a custom font if needed -->
+    </style>
+
+    <!-- Button Text Style -->
+    <style name="Theme.Anime_List_Base.TextStyle.Button">
+        <item name="android:textSize">14sp</item> <!-- Font size for button text -->
+        <item name="android:textColor">@color/colorPrimary</item> <!-- Primary color for button text -->
+        <item name="android:fontFamily">@font/roboto_bold</item> <!-- Set a custom font if needed -->
+        <item name="android:textStyle">bold</item> <!-- Bold style for button text -->
+        <item name="android:letterSpacing">0.1</item> <!-- Adds a bit of spacing for button text -->
+    </style>
+
+    <style name="Theme.Anime_List_Base.TextStyle" parent="Theme.Anime_List_Base" />
+</resources>
